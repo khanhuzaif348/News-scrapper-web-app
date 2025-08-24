@@ -35,19 +35,20 @@ This project brings news from different platforms into **one convenient place**.
    cd news-scraper
 
 
+
 ## How to Run
+2. Manually
 ```bash
 pip install -r requirements.txt
 streamlit run news_scraper.py
-
 ---
 
 
- ##  Contributing
+##  Contributing
+
 Contributions are welcome!  
 Feel free to open issues or submit pull requests to improve this project.  
 
----
 
 ##  License
 This project is licensed under the **MIT License**.  
