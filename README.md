@@ -38,7 +38,7 @@ This project brings news from different platforms into **one convenient place**.
 ## How to Run
 ```bash
 pip install -r requirements.txt
-streamlit run news_scraper.py
+streamlit run news_scraper.py```
 
 
  Contributing
