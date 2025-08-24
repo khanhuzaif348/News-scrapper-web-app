@@ -33,25 +33,25 @@ This project brings news from different platforms into **one convenient place**.
    ```bash
    git clone https://github.com/khanhuzaif348/news-scraper.git
    cd news-scraper
+##  How to Run
+2.  Manually
+    ```bash
+    pip install -r requirements.txt
+    streamlit run news_scraper.py
 
-
-
-## How to Run
-2. Manually
-```bash
-pip install -r requirements.txt
-streamlit run news_scraper.py
 ---
+##  About the Project
+A simple **Streamlit-based web app** that allows users to fetch **real-time news** from multiple sources such as **BBC, CNN, AajTak, Al Jazeera, and more**.  
+This project brings news from different platforms into **one convenient place**.  
 
 
 ##  Contributing
 
-Contributions are welcome!  
-Feel free to open issues or submit pull requests to improve this project.  
+Contributions are welcome! 
+Feel free to open issues or submit pull requests to improve this project.
 
+### License
 
-##  License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
